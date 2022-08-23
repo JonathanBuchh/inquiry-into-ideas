@@ -1,0 +1,5 @@
+baseURL = 'https://buchh.fun/inquiry-into-ideas/'
+canonifyURLs = true
+
+[markup.goldmark.renderer]
+  unsafe = true
